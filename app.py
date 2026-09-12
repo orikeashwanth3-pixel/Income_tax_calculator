@@ -63,14 +63,4 @@ def home():
 
 body {{
     font-family: Arial;
-    background: #f2f2f2;
-    margin: 0;
-    padding: 20px;
-}}
-
-.container {{
-    max-width: 500px;
-    margin: auto;
-    background: white;
-    padding: 25px;
-    border-radius: 12
+    
